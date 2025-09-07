@@ -81,16 +81,13 @@ A Python script (`inventory_builder.py`) automates fashion inventory creation.
 ### **Run the Data Pipeline**
 
 1. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 2. Add credentials:  
    Create a `.env` file and add your Pexels API key, Cloudflare API key, and Firebase `serviceAccountKey.json`.
 
 3. Run the script:  
    ```bash
-   python inventory_builder.py
+   python scraper.py
    ```
 
 ---
@@ -111,7 +108,7 @@ A Python script (`inventory_builder.py`) automates fashion inventory creation.
 
 4. Launch the app:  
    ```bash
-   npx expo start
+   npx start
    ```
 
 ---
