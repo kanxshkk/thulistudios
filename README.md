@@ -37,7 +37,7 @@ StyleMe is designed to provide users with an engaging style quiz experience and 
 ## 🏗 **System Design**
 
 ### ✅ **Backend Data Pipeline**
-A Python script (`inventory_builder.py`) automates fashion inventory creation.
+A Python script (`scraper.py`) automates fashion inventory creation.
 
 1. **Data Acquisition**  
    Fetches fashion images using the Pexels API.
