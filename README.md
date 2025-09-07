@@ -69,8 +69,7 @@ A Python script (`inventory_builder.py`) automates fashion inventory creation.
 ## 📷 **Demo Screenshots**
 
 - *Quiz Interface*
-
-![WhatsApp Image 2025-09-07 at 17 47 21_a7a83486](https://github.com/user-attachments/assets/6cc0f2a9-a611-4ee7-8b7d-1202545c7cc2)
+![WhatsApp Image 2025-09-07 at 17 47 19_3bcad4fb](https://github.com/user-attachments/assets/4a40131f-06a7-4a90-b66e-fdffdd87b496)
 
 
 ![WhatsApp Image 2025-09-07 at 17 47 19_9238bf03](https://github.com/user-attachments/assets/3c5bfdca-e480-4ee2-9ba2-1d8cc22f978d)
@@ -81,14 +80,13 @@ A Python script (`inventory_builder.py`) automates fashion inventory creation.
 
 
 - *Recommendation Board*  
-![WhatsApp Image 2025-09-07 at 17 47 21_390b4459](https://github.com/user-attachments/assets/32022e3c-12cb-428a-ac30-dfc5342ff4f1)
-
-
-![WhatsApp Image 2025-09-07 at 17 47 19_3bcad4fb](https://github.com/user-attachments/assets/4a40131f-06a7-4a90-b66e-fdffdd87b496)
-
-
 ![WhatsApp Image 2025-09-07 at 17 47 20_610e3a5c](https://github.com/user-attachments/assets/38a7c016-56c0-4bb7-b480-d83c363c349e)
 
+
+![WhatsApp Image 2025-09-07 at 17 47 21_a7a83486](https://github.com/user-attachments/assets/6cc0f2a9-a611-4ee7-8b7d-1202545c7cc2)
+
+
+![WhatsApp Image 2025-09-07 at 17 47 21_390b4459](https://github.com/user-attachments/assets/32022e3c-12cb-428a-ac30-dfc5342ff4f1)
 
 ---
 
