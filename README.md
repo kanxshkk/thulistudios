@@ -131,18 +131,8 @@ A Python script (`inventory_builder.py`) automates fashion inventory creation.
 
 ## 📂 **Project Structure**
 
-```text
-StyleMe/
-├── App.js                 # React Native application code
-├── inventory_builder.py   # Python script to build fashion inventory
-├── requirements.txt       # Python dependencies
-├── .env                   # API keys and credentials (not included)
-├── serviceAccountKey.json # Firebase credentials (not included)
-└── README.md              # Project documentation
-```
+<img width="1452" height="651" alt="image" src="https://github.com/user-attachments/assets/a92f2b17-b6a6-4ced-9583-e490c968b395" />
+<img width="1449" height="712" alt="image" src="https://github.com/user-attachments/assets/f2a5ee3a-78e4-482a-af43-d8895ae51c7d" />
 
 ---
 
-## 📬 **Contact**
-
-For questions or contributions, feel free to open an issue or pull request.
